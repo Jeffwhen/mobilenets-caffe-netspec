@@ -6,7 +6,7 @@ MobileNetV2 Caffe Spec Script
 
 ### Pretrained
 
-I have not do the pretraining myself. But you can easily copy weights from [MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe) layer by layer.
+I have not done the pretraining myself. But you can easily copy weights from [MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe) layer by layer.
 
 ### Requirements
 
