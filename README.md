@@ -1,8 +1,8 @@
 
-MobileNetV2 Caffe Spec Script
+MobileNets Caffe Spec Script
 =============================
 
-`mobilenetv2.py` implements MobileNetV2 using Caffe NetSpec api.
+`mobilenet.py` implements MobileNetV1 and MobileNetV2 using Caffe NetSpec api.
 
 ### Pretrained
 
